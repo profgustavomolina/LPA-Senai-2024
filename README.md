@@ -10,4 +10,3 @@
    - Criação do perfil no Github
 
 
-PALMEIRAS É UM BANDO DE PALHAÇO 
