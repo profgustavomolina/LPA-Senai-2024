@@ -43,7 +43,7 @@ programa
      limpa()
 
      escreva("Bem vindo a KANTINA do Senai\n")
-     escreva("======================================\n")
+     escreva("==========================================\n")
      escreva("Você comprou: ",qtd_coxinha," coxinhas.\n")
      escreva("Você comprou: ",qtd_refri," refris.\n")
      escreva("Você comprou: ",qtd_sobremesa," sobremesas.\n")
@@ -58,7 +58,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1303; 
+ * @POSICAO-CURSOR = 1012; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
