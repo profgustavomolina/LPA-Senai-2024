@@ -19,8 +19,8 @@ programa
 	  	escreva("Você é di menor")
 	  }
 
-	  senao 
-	  {
+	  se (idade >=18) 
+	S  {
 	  	escreva("Você já pode ir no bloquinho de carnaval ")
 	  }
 
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 25; 
+ * @POSICAO-CURSOR = 239; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
